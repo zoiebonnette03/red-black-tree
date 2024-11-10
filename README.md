@@ -1,4 +1,4 @@
-# red-black-tree
+# Red Black Tree
 Creation of a Red-Black Tree with proper rotation for Data Structures course final project. 
 
 A red-black tree is self balancing binary tree with specific rules to keep the orgnaization:
